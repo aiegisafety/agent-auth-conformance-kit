@@ -2,6 +2,8 @@
 
 [![conformance](https://github.com/aiegisafety/agent-auth-conformance-kit/actions/workflows/conformance.yml/badge.svg)](https://github.com/aiegisafety/agent-auth-conformance-kit/actions/workflows/conformance.yml)
 
+**English** | [简体中文](README.zh-CN.md)
+
 A small, runnable conformance suite for the **Agent Authorization Conformance
 Profile (AACP v0.1)** — an open, testable answer to one question regulators and
 risk teams are now asking of AI agents that move money, place orders, or share
